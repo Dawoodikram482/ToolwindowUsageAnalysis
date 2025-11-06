@@ -67,3 +67,5 @@ The script provides detailed output including:
 ### Issue: Visualization doesn't appear
 **Solution**: Script saves PNG file automatically, check for `toolwindow_analysis.png`
 
+## Analysis Report
+The detailed report can be found in the analysis_report folder in pdf format.
